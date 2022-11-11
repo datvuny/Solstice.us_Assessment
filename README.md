@@ -119,7 +119,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 
-Project Link: [https://github.com/datvuny/Solstice.us-Assessment](https://github.com/datvuny/Solstice.us-Assessment)
+Project Link: [https://github.com/datvuny/Solstice.us_Assessment](https://github.com/datvuny/Solstice.us_Assessment)
 
 
 
